@@ -1,0 +1,29 @@
+// seletores: proprieadades: valores
+
+header {
+    background-color: red;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+//Selecionando Tag
+img {
+    width: 300px;
+    
+}
+
+//Selecionando Classe
+.card {
+    background-color: rgba(255, 0, 0, 0.26);
+    border: 10px solid rgb(0, 128, 0);
+    //opacity: 0.5; 
+}
+
+//Selecionando ID
+#btn1 {
+    background-color: green;
+}
